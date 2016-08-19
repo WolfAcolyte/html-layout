@@ -1,0 +1,29 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #323233;
+    height: 100px;
+    
+
+}
+body {
+    background: #EAEAEA;
+
+}
+.wrapper{
+    background-color: Grey;
+    width: 1100px;
+     margin: 0 auto;
+}
+.content{
+    background-color: white;
+    height: calc(100vh - 150px);
+}
+footer{
+    background-color: black;
+    height: 50px;
+    
+}

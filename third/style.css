@@ -1,0 +1,49 @@
+html, body{
+margin: 0;
+padding: 0;
+height: 100%;
+}
+.wrapper{
+ height: 14.28%;
+ width: 100%;
+}
+.gray{
+    background: #c4c4c4;
+    height: 14.28%;
+    position: relative;
+
+
+
+}
+.square{
+background: #0033ff;
+height: 10%;
+width: 10%;
+position: absolute;
+top: 2.5%;
+left: 3%;
+
+}
+.content{
+height: 28.56%;
+width: 100%;
+text-align: left;
+padding: calc(10px + 3%);
+font-size: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.blue{
+background: #0033ff;
+}
+.teal{
+background: #36fcff;
+}
+.puke{
+background:#99ffcc;
+}
+.yellow{
+background: #f1fa46;
+}

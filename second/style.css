@@ -1,0 +1,33 @@
+html, body {
+margin: 0;
+padding: 0;
+height: 100%;
+}
+.wrapper{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.blue{
+    background: #4A90E2;
+    
+}
+.seafoam{
+    background: #50E3C2;
+}
+.puke{
+    background: #88E986;
+    height: 80%;
+}
+.cherry{
+    background: #D00218;
+    height: 20%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+
+}
